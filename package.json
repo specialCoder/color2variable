@@ -1,0 +1,26 @@
+{
+  "name": "color2variable",
+  "version": "0.0.1",
+  "description": "covert color to variable by @ant-design/colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/specialCoder/color2variable.git"
+  },
+  "keywords": [
+    "color",
+    "@ant-design/colors"
+  ],
+  "author": "specialCoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/specialCoder/color2variable/issues"
+  },
+  "homepage": "https://github.com/specialCoder/color2variable#readme",
+  "dependencies": {
+    "@ant-design/colors": "^6.0.0"
+  }
+}
